@@ -1,0 +1,27 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+/* creating the following in html: " <h6 class="publish-time">Published: 2 Days Ago</h6>",
+we learn that, once again, we are styling our html class publish-time with our css
+here on line 16 */

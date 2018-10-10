@@ -1,0 +1,7 @@
+p	{
+	font-family: Arial;
+}
+
+/*This section got us into the concept of seperation of the html and css files.
+By doing this, we become more efficient and can apply styling code among multiple
+elements without having to replicate code or having redundancy. */

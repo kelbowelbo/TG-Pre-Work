@@ -1,0 +1,14 @@
+p	{
+	font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title  {
+  color: teal;
+}
+
+/* we are introduced to the "class" attribute that allows us to name a section of html
+under an assigned class name in order to style a group of html.*/

@@ -1,0 +1,11 @@
+p	{
+	font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+/*Using the css file, we can style the h1 tags in html by creating a selector
+named h1 within css.  In this example, we have changed all h1 tags to a font color
+maroon. */

@@ -1,0 +1,29 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+/* using the class name in line 24, and adding that class name into the <h1> tag,
+we can apply "text-transform: capitalize" to our rendering. */

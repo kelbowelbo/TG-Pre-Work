@@ -1,0 +1,25 @@
+p	{
+	font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title  {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+#article-title  {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+/* in lines 17-20, we've added an id selector for "article-title".  Within our html
+file, we have added the following code: "<h1 class="title uppercase" id="article-title">
+Top Vacation Spots</h1>".  By adding the id of "article-title", we are able to style
+our title as per our css styles. */
