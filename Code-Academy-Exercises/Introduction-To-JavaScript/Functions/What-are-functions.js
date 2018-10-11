@@ -1,0 +1,2 @@
+/*This section explains that a function is a way of naming a process to be performed
+or applied to many tasks without replicating code.*/

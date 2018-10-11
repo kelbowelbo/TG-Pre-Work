@@ -16,6 +16,3 @@ if (favoritePhrase) {
 } else {
   console.log('This string is definitely empty.');
 }
-
-/* I learned how to use "truthy" and "falsy" in either a string or number, but
-still operates as a boolean. */
