@@ -1,0 +1,2 @@
+/*This section introduced the concept of scope.  Scope will determine where variables
+can be accessed.*/
