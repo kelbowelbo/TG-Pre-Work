@@ -1,0 +1,2 @@
+/*I learned that Higher Order functions are those that can take a function
+as an argument and return a function as well.*/
