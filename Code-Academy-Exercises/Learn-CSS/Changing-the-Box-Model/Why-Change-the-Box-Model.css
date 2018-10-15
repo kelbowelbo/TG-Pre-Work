@@ -1,0 +1,3 @@
+/* I learned that the old box model inherently has sizing limitations and issues.
+The padding, margins and borders all interfere with a box's overall size, thus,
+setting a h/w dimension in css can be cumbersome.*/
