@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*I learned that this above code will reset the defaults for margin and padding in
+all HTML elements.*/
