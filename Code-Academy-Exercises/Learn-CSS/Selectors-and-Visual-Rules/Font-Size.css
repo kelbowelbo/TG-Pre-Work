@@ -1,0 +1,12 @@
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 18px;
+  width: 100%;
+}
+
+/*In the interest of brevity, I am only including the code that I changed.
+In this section, I learned about changing the font size.  Similar to the
+font family, font size is easy to update.*/

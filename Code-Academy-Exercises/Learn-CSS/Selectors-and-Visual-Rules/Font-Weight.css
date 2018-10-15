@@ -1,0 +1,14 @@
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+}
+
+/*Again, similar to the font family and font size, font weight is easy to update
+or change.  The trick is understanding what is available to you as a designer And
+using the most efficient, and standarized structure in the code block to eliminate
+confusion and provide your code reviewer some visual ease.*/

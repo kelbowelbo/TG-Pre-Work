@@ -1,0 +1,12 @@
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  font-family: Georgia;
+  text-align: center;
+  padding-top: 100px;
+  width: 100%;
+}
+
+/*This section taught me about alignment of the code block in reference.  In This
+case, we are referencing the h1 tag which holds the main heading, and centering this
+block of text.*/

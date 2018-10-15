@@ -1,0 +1,10 @@
+.image {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+/*In this section, I learned how to use background-image to change the background
+image of an element, in this case, a class (we know this because the section is
+noted as .image).*/
